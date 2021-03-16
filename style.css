@@ -1,0 +1,8 @@
+th:hover {
+  cursor: pointer;
+  background-color: #dfe0e1;
+}
+
+.sort-asc {
+  background-color: #dfe0e1!important;
+}
